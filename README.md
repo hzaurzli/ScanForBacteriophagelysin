@@ -2,7 +2,7 @@
 ScanForBacteriophagelysin, easy and fast digging lysin from phages and prophages
 
 # Pipeline (Linux only, Internet)
-![ScanForBacteriophagelysin](https://github.com/hzaurzli/DeepLysin/assets/47686371/77f8e41a-ca4a-4a19-969f-9bd8aee74a73)
+![ScanForBacteriophagelysin](https://github.com/hzaurzli/ScanForBacteriophagelysin/assets/47686371/9df2683c-fd23-4858-993c-39fecd185da2)
 
 ## Step 1: Lysins_finder: Find putative lysins
 ### Install the software
@@ -75,7 +75,7 @@ python lysins_finder.py
   -r ./ref.fasta                                    # reported lysin reference fasta (optional parammeter, comparative similarity with known reported sequences)
 ```
 
-## Step 2: DeepLysin bactericidal activity scoring
+## Step 2: ScanForBacteriophagelysin bactericidal activity scoring
 
 ### Usage
 #### A.Basic usage
@@ -291,4 +291,4 @@ Web disk：
   Password：DnyF
 
 # Cition
-If this software is useful, please cite [https://github.com/hzaurzli/DeepLysin](https://github.com/hzaurzli/DeepLysin)
+If this software is useful, please cite [https://github.com/hzaurzli/ScanForBacteriophagelysin](https://github.com/hzaurzli/ScanForBacteriophagelysin)
